@@ -1,0 +1,6 @@
+module -> 하나의 도메인? 패키지?
+
+nest new ./ -> 현재 폴더에 프로젝트 생성
+nest new project-name -> 프로젝트 폴더 생성
+
+nest g module module-name -> 모듈 폴더 생성
