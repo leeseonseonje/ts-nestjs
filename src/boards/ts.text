@@ -4,3 +4,8 @@ nest new ./ -> 현재 폴더에 프로젝트 생성
 nest new project-name -> 프로젝트 폴더 생성
 
 nest g module module-name -> 모듈 폴더 생성
+    (g: generate)
+
+nest g controller boards -> 컨트롤러 생성
+
+nest g service boards -> 서비스 생성
